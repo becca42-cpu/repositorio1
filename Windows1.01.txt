@@ -1,1 +1,1 @@
-
+Este fue el primer programa gráfico de 16 bits, desarrollado por Microsoft, fue lanzado el 20/11/1985.
